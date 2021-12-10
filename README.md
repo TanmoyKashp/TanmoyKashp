@@ -12,7 +12,18 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love fast bowling.
 
+<br>
+
 ## Language and tools
-[<img align="left" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" />]
-[<img align="left" width="50px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />]
-[<img align="left" width="30px" src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" />]
+<img align="left" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" />
+<img align="left" width="50px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
+<img align="left" width="55px" src="https://wallpapercave.com/wp/wp8583820.jpg" />
+<img align="left" width="37px" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" />
+
+<br>
+
+## My social media 
+
+#### Instagram : @kashyaapppp
+#### Linkedin  : Tanmoy Kashyap
+
