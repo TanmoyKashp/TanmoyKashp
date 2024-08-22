@@ -1,4 +1,4 @@
-###👋 Hi, I'm [Your Name]!
+###👋 Hi, I'm Tanmoy !
 ##🌟 AI/ML Engineer & M.Tech Student
 
     🎓 Pursuing M.Tech with a specialization in Artificial Intelligence and Machine Learning.
