@@ -23,6 +23,5 @@
 ##🌍 Let's Connect!
 
     💼 LinkedIn
-    📝 Blog/Portfolio
-    🐦 Twitter
+    https://www.linkedin.com/in/tanmoykashyap/
 
