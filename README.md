@@ -1,27 +1,50 @@
-###👋 Hi, I'm Tanmoy !
-##🌟 AI/ML Engineer & M.Tech Student
+👋 Hi, I'm Tanmoy Kashyap
+🚀 AI/ML Engineer | M.Tech (AI/ML) | LLM & RAG Systems
 
-    🎓 Pursuing M.Tech with a specialization in Artificial Intelligence and Machine Learning.
-    💡 Passionate about Generative AI, Explainable AI, and Deep Learning.
-    🔍 Exploring the cutting edge of AI through research and hands-on projects.
-    📚 Actively involved in AI/ML projects that push the boundaries of what's possible.
-    🤖 Skilled in developing and deploying AI models, with a focus on real-world applications.
+🎓 M.Tech student specializing in Artificial Intelligence & Machine Learning
+🧠 Strong background in LLMs, Retrieval-Augmented Generation (RAG), and Deep Learning architectures
+🔬 Research-focused with hands-on implementation experience in applied AI systems
+⚙️ Interested in building scalable, production-grade AI solutions for real-world deployment
 
-##🚀 Projects & Contributions
+🧩 Core Areas of Work
 
-    Generative AI: Creating innovative models that generate unique and creative outputs.
-    Explainable AI: Enhancing model transparency and interpretability for better decision-making.
-    Deep Learning: Developing neural networks to solve complex problems in various domains.
+Large Language Models (LLMs) – Fine-tuning, prompt engineering, retrieval pipelines
 
-##💼 Skills & Tools
+RAG Systems – Graph-RAG architectures, secure context filtering, knowledge-grounded AI
 
-    Python, TensorFlow, PyTorch, C++
-    Machine Learning, Deep Learning, Neural Networks
-    Data Science, Data Analysis, Visualization
-    Version Control (Git), Docker, Kubernetes
+Deep Learning – CNNs, RNNs, BiLSTM, Transformer-based models
 
-##🌍 Let's Connect!
+Computer Vision – YOLO variants, Faster R-CNN, model comparison & optimization
 
-    💼 LinkedIn
-    https://www.linkedin.com/in/tanmoykashyap/
+Explainable AI (XAI) – Eigen-CAM, SHAP-based interpretability
 
+NLP – Sarcasm detection, contextual embeddings, transformer models
+
+🛠 Technical Stack
+
+Languages:
+Python, C++, SQL
+
+Frameworks & Libraries:
+PyTorch, TensorFlow, Scikit-learn, Hugging Face, OpenCV
+
+AI Systems & Tools:
+LLM APIs, RAG pipelines, Neo4j (Graph-based retrieval), ONNX
+
+Dev & Deployment:
+Git, Docker, Kubernetes, Google Colab, Linux
+
+📈 What I Focus On
+
+Building AI systems that are accurate, explainable, and deployable
+
+Comparative evaluation of models (YOLOv5, YOLOv8, YOLOv11, etc.)
+
+Secure AI architectures with structured knowledge integration
+
+Research-driven development with measurable performance benchmarks
+
+🌍 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/tanmoykashyap/
